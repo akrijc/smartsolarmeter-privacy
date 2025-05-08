@@ -1,1 +1,0 @@
-# smartsolarmeter-privacy
